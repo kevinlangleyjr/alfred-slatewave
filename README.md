@@ -12,6 +12,8 @@ A Slatewave theme for [Alfred](https://www.alfredapp.com) — slate foundation, 
 
 > _Slate below, teal above._
 
+![Slatewave preview](docs/preview.png)
+
 </div>
 
 ---
