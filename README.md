@@ -34,7 +34,15 @@ Slatewave for Alfred is a single `.alfredappearance` preset tuned against Alfred
 
 ## Installation
 
-### Import the theme
+### Alfred extras (one-click)
+
+The fastest path — Slatewave is listed on the official Alfred extras gallery:
+
+**→ [Add Slatewave to Alfred](https://www.alfredapp.com/extras/theme/y027KSVsk2/)**
+
+Click **Add to Alfred** on that page; Alfred opens **Settings → Appearance** with Slatewave pre-selected, ready to import.
+
+### Import the theme manually
 
 1. Download [`Slatewave.alfredappearance`](./Slatewave.alfredappearance).
 2. Double-click the file — macOS will hand it to Alfred, which opens **Settings → Appearance** with Slatewave pre-selected.
